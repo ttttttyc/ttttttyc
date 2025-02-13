@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ttttttyc
 - 👀 I’m interested in NLP
 - 💞️ I’m a student from Zhejiang University
-- 📫 How to reach me:tongyc828@gmail.com
+- 📫 How to reach me: tongyc828@gmail.com
 
 
 <!---
